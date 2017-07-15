@@ -1,0 +1,6 @@
+C:\Users\Dairius\Documents\GitHub\Practica1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Dairius\Documents\GitHub\Practica1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Dairius\Documents\GitHub\Practica1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Dairius\Documents\GitHub\Practica1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Dairius\Documents\GitHub\Practica1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Dairius\Documents\GitHub\Practica1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
